@@ -49,7 +49,7 @@ final_df = pd.concat(all_data, ignore_index=True)
 os.makedirs("data/raw", exist_ok=True)
 
 # Saving CSV
-output_path = "data/raw/europe_energy_prices.csv"
+output_path = "../../data/raw/europe_energy_prices.csv"
 final_df.to_csv(output_path, index=False)
 
 print("\nData saved successfully!")
