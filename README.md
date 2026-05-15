@@ -23,8 +23,6 @@ The project was designed to simulate a real-world analytics engineering workflow
 
 # Dashboard Preview
 
-> Add exported dashboard screenshots here.
-
 ## Executive Dashboard
 
 ![Dashboard Preview](docs/dashboard_preview.png)
@@ -323,7 +321,7 @@ Interested in:
 * Machine Learning
 * Data Analytics
 
-LinkedIn: [https://www.linkedin.com/in/mdzaberalhamid/](https://www.linkedin.com/in/mdzaberalhamid/)
+LinkedIn: [https://www.linkedin.com/in/mdzaberalhamid](https://www.linkedin.com/in/mdzaberalhamid)
 
 GitHub: [https://www.github.com/mdzaberalhamid](https://www.github.com/mdzaberalhamid)
 
